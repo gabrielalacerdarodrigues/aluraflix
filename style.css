@@ -10,7 +10,7 @@ header {
     border-bottom: solid 2px rgb(255, 110, 43);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(255, 150, 65);
   
 }
 
@@ -55,9 +55,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid rgba(255, 211, 65, 0.904);
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(255, 144, 70);
 }

@@ -1,63 +1,63 @@
 body {
     color: white;
-    background: rgb(63, 63, 63);
+    background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
-    }
-    
-    header {
-    border-bottom: solid 2px rgb(222, 224, 54);
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(228, 200, 42);
-    
-    }
-    
-    .chamada {
-    background: rgb(0, 0, 0);
+    color: rgb(42, 122, 228);
+  
+}
+
+.chamada {
+    background: rgb(156, 202, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    }
-    
-    .chamada-texto {
+}
+
+.chamada-texto {
     margin-right: 5%;
-    }
-    
-    h1 {
+}
+
+h1 {
     font-size: 80px;
-    color: rgb(233, 233, 233);
-    }
-    
-    p {
+    color: black;
+}
+
+p {
     font-size: 50px;
-    color: rgb(246, 247, 224);
-    }
-    
-    .categoria-videos {
+    color: white;
+}
+
+.categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
-    }
-    
-    .categoria {
+}
+
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
-    }
-    
-    .categoria-videos img {
+}
+
+.categoria-videos img {
     opacity: 0.5;
     height: 200px;
-    }
-    
-    .categoria-videos img:hover {
+}
+
+.categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(201, 223, 79);
-    }
-    
-    .categoria h2 {
-    color: rgb(228, 200, 42);
-    }
+    border: 3px solid green;
+}
+
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
